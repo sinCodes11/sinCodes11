@@ -60,11 +60,11 @@
     <g transform="translate(150,50)">
       <text x="0" y="0" font-family="monospace" font-size="14" fill="#888">&gt; <tspan fill="#ff0033">./sinCodes11</tspan></text>
       <text x="0" y="32" font-family="monospace" font-size="38" font-weight="bold" fill="#ff0033" filter="url(#glowStrongPr)">
-        Daniel Gregg Jr
+        Daniel Sinatra
       </text>
       <text x="0" y="32" font-family="monospace" font-size="38" font-weight="bold" fill="#ff0033" opacity="0.2">
         <animate attributeName="opacity" values="0.2;0.5;0.2" dur="0.04s" repeatCount="indefinite"/>
-        Daniel Gregg Jr
+        Daniel Sinatra
       </text>
       <text x="0" y="65" font-family="monospace" font-size="14" fill="#aaa" letter-spacing="2">CLOUD INFRASTRUCTURE ENGINEER</text>
       <text x="0" y="88" font-family="monospace" font-size="14" fill="#aaa" letter-spacing="2">AI/ML SYSTEMS ARCHITECT</text>
