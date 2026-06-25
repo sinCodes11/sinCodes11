@@ -42,6 +42,10 @@ Certs don't mean much without receipts. The repos are the receipts.
 | [SecureFlow](https://github.com/sinCodes11/secureflow) — SOAR Orchestrator | n8n, VirusTotal, Webhooks, Docker |
 | [OpsCentral](https://github.com/sinCodes11/opscentral) — SOC Dashboard | FastAPI, Grafana, Prometheus, Celery |
 | [DMARC Agent](https://github.com/sinCodes11/dmarc-agent) — Email Auth CLI | Python, SPF/DKIM/DMARC, FastAPI |
+| [PocketPoker](https://github.com/sinCodes11/PocketPoker) — Mobile Card Game | React Native, TypeScript, Expo |
+| Hermes Multi-Agent Gateway — Autonomous AI System | Python, systemd, Telegram Bot API, RSA-PSS |
+| KalshiAlerts — Prediction Market Trading Bot | Kalshi API, Alpaca API, SEC EDGAR, OpenRouter |
+| Elaine — Automated Bug Bounty Recon Agent | subfinder, httpx, nuclei, NVD API, CISA KEV |
 
 <details>
 <summary><code>$ skills --expand</code></summary>
@@ -49,9 +53,10 @@ Certs don't mean much without receipts. The repos are the receipts.
 | Domain | Tech |
 |--------|------|
 | Cloud | OCI, AWS, GCP, Docker, Kubernetes |
-| AI/ML | RAG Pipelines, Vector DBs, LLM Integration, Claude API, Ollama |
-| Security | Pentesting, Splunk, Wireshark, Burp Suite, SIEM, Sigma |
-| Automation | n8n, Python, Bash, JavaScript, PostgreSQL |
+| AI/ML | RAG Pipelines, Vector DBs, LLM Integration, Claude API, Ollama, Multi-Agent Systems |
+| Security | Pentesting, Splunk, Wireshark, Burp Suite, SIEM, Sigma, subfinder, nuclei, httpx |
+| Automation | n8n, Python, Bash, JavaScript, PostgreSQL, systemd, Hermes |
+| FinTech | Kalshi API, Alpaca API, SEC EDGAR, RSA-PSS Auth, Signal Scoring |
 
 </details>
 
