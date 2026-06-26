@@ -111,6 +111,8 @@ Certs don't mean much without receipts. The repos are the receipts.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sinCodes11&theme=dark&hide_border=true&background=0d1117&ring=ff0033&fire=ff0033&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/DirtTrys.png)](https://tryhackme.com/p/DirtTrys)
+
 </div>
 
 ---
